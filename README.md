@@ -1,7 +1,5 @@
 # Sobre mim
-Olá 👋 sou um amante de tecnologia e resolução de problemas trabalhando com tecnologias front-end a 4 anos em projetos de sistema sites etc. apreciador de web design e linguagens de baixo nível, atuando atualmente com React js com uma vasta experiência com a biblioteca
-    
-🌱 Estou atualmente aprendendo nextjs
+Hello 👋 I'm a technology and problem solving lover working with front-end technologies for 4 years on system projects, websites etc. appreciator of web design and low-level languages, currently working with React js with extensive experience with the library
 
 <!-- <div>
   <a href="https://github.com/JacksonSamuel42">
