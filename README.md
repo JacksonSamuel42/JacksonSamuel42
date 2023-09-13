@@ -7,7 +7,7 @@ Backend developer
 Hello 👋 I'm a technology and problem solving lover working with back-end technologies for 5 years on system projects, websites etc. appreciator of design patterns and functional programming, currently working with Node js
 
 * 🌍  I'm based in Angola
-* ✉️  You can contact me at [jacksonsamu42@gmail.com](mailto:jacksonsamu42@gmail.com)
+* ✉️  You can contact me at [jacksonsamuel42@hotmail.com](mailto:jacksonsamuel42@hotmail.com)
 * 🧠  I'm learning Rust
 
 ### Skills
